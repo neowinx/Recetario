@@ -1,0 +1,9 @@
+# Recipe for version 3.0.2.0 by Demian Florentin <demianflorentin@gmail.com>, on Fri Dec 23 08:59:19 PYST 2016
+# Recipe (MakeRecipe) for WxPython by Lucas Correia Villa Real <lucasvr@gobolinux.org>, on Tue Aug 9 11:10:29 BRT 2005
+compile_version=1.8.0
+url="http://downloads.sourceforge.net/wxpython/wxPython-src-3.0.2.0.tar.bz2"
+file_size=58304944
+file_md5=922b02ff2c0202a7bf1607c98bbbbc04
+recipe_type=configure
+autogen_before_configure=yes
+
